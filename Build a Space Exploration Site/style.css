@@ -1,0 +1,33 @@
+body{
+    color: #82a5ca;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.main{
+    background-image: url(https://media.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif);
+    background-size: cover;
+    font-size: 23px;
+    padding: 10px 0 40px 0;
+}
+
+
+.btn{
+    border: none;
+    background-color: aliceblue;
+    padding: 6px 12px;
+    font-family: inherit;
+    color: inherit;
+    font-size: large;
+    font-weight: bold;
+}
+
+#underline{
+    border-bottom: 4px solid white;
+    text-shadow: 1px 2px 3px white;
+}
+
+#logo{
+    width: 100px;
+}
